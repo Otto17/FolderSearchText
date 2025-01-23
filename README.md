@@ -10,6 +10,8 @@ _Проект полностью открыт и распространяетс�
 
 Ссылки на [GitHub](https://github.com/Otto17/FolderSearchText) и [GitFlic](https://gitflic.ru/project/otto/foldersearchtext).
 
+![Скриншот](image.png)
+
 ---
 
 **Пример использования:**
